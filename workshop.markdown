@@ -17,23 +17,25 @@ Please register using this [form](https://docs.google.com/forms/d/1rWQPgjObny31o
 **Day 1**: March 29 (Wednesday), 2pm-6pm <br>
 Location: Room Truss, [Volkshotel](https://www.volkshotel.nl/en/directions/) <br>
 
-| 2.00-2.45 | Lisa Beinborn: Human-Centered Challenges for Cross-Lingual Language Models |
-| 2.45-3.30 | Piek Vossen: Cross-lingual Reference for Learning Languages with Robots |
-| 3.30-4.00 | Coffee break |
-| 4.00-4.45 | Antal van den Bosch: Implicit and Explicit Multilingual Computational Language Models |
-| 4.45-6.00 | Poster Session |
+| 14.00 | Lisa Beinborn: Human-Centered Challenges for Cross-Lingual Language Models |
+| 14.45 | Piek Vossen: Cross-lingual Reference for Learning Languages with Robots |
+| 15.30 | Coffee break |
+| 16.00 | Antal v.d. Bosch: Implicit and Explicit Multilingual Computational Language Models |
+| 16.45 | Poster Session |
+<br>
 
 **Day 2**, March 30 (Thursday), 9 am-5pm <br>
 Location: Interactive workspace [3D@VU](https://www.youtube.com/watch?v=Z3E2f56mptw) <br>
 
-| 09.00-10.00 | Anne Lauscher: Fostering Cultural and Subcultural Inclusion in NLP |
-| 10.00-10.30 | Coffee break |
-| 10.30-11.30 | Lonneke van der Plas: Language Specificity and Low-Resource Languages |
-| 11.30-12.30 | Discussion panel:  Challenges for Applying Multilingual Models to Human-Centered Use Cases |
-| 12.30-14.00 | Lunch break |
-| 14.00-15.00 | Yevgen Matusevych: Targeted Evaluation of Bilingual Models |
-| 15.00-15.30 | Coffee break |
-| 15.30-17.00 | Discussion Panel: Human-Centered Aspects in the Evaluation of Cross-Lingual Models |
+| 09.00 | Anne Lauscher: Fostering Cultural and Subcultural Inclusion in NLP |
+| 10.00 | Coffee break |
+| 10.30  | Lonneke van der Plas: Language Specificity and Low-Resource Languages |
+| 11.30 | Discussion panel:  Challenges for Applying Multilingual Models to Human-Centered Use Cases |
+| 12.30 | Lunch break |
+| 14.00 | Yevgen Matusevych: Targeted Evaluation of Bilingual Models |
+| 15.00 | Coffee break |
+| 15.30 | Discussion Panel: Human-Centered Aspects in the Evaluation of Cross-Lingual Models |
+<br>
 
 **Confirmed Posters:**
 - Rochelle Choenni: Data-Efficient Cross-Lingual Transfer with Language-Specific Subnetworks
