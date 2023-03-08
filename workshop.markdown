@@ -22,6 +22,7 @@ Location: Room Truss, [Volkshotel](https://www.volkshotel.nl/en/directions/) <br
 | 15.30 | Coffee break |
 | 16.00 | Antal v.d. Bosch: Implicit and Explicit Multilingual Computational Language Models |
 | 16.45 | Poster Session |
+
 <br>
 
 **Day 2**, March 30 (Thursday), 9 am-5pm <br>
@@ -35,6 +36,7 @@ Location: Interactive workspace [3D@VU](https://www.youtube.com/watch?v=Z3E2f56m
 | 14.00 | Yevgen Matusevych: Targeted Evaluation of Bilingual Models |
 | 15.00 | Coffee break |
 | 15.30 | Discussion Panel: Human-Centered Aspects in the Evaluation of Cross-Lingual Models |
+
 <br>
 
 **Confirmed Posters:**
