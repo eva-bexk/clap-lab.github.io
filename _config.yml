@@ -30,7 +30,7 @@ title: CLAP-Lab: Cognitively inspired Language Processing
 # github_username:  jekyll
 
 # Build settings
-remote_theme: peterdesmet/petridish@2.0
+theme: cayman
 plugins:
   - jekyll-feed
 
