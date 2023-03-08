@@ -1,8 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: CLAP Lab
 ---
-
-VENI Grant: Interpretability of Transfer in Multilingual Models
+This page is currently under construction. 
+It will inform about research progress on the **VENI project: Interpretability of Transfer in Multilingual Models** by [Lisa Beinborn](https://beinborn.eu/). 

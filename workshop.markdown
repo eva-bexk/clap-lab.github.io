@@ -16,7 +16,7 @@ Please register using this [form]().
 **Day 1**: March 29 (Wednesday), 2pm-6pm
 Location: Room Truss, [Volkshotel](https://www.volkshotel.nl/en/directions/)
 
-2.30-2.45 	Workshop Introduction:  Lisa Beinborn: Human-Centered Challenges for Cross-Lingual Language Models
+2.00-2.45 	Workshop Introduction:  Lisa Beinborn: Human-Centered Challenges for Cross-Lingual Language Models
 2.45-3.30 	Piek Vossen: Cross-lingual Reference for Learning Languages with Robots
 3.30-4.00 	Coffee break
 4.00-4.45 	Antal van den Bosch: Implicit and Explicit Multilingual Computational Language Models
