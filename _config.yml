@@ -34,6 +34,7 @@ description: Cognitively inspired Language Processing
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
