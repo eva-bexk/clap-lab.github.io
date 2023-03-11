@@ -10,7 +10,8 @@ Linguistic diversity is one of the fundamental rights of the European Union and 
 In this workshop, we want to bring together leading scholars from linguistics, cognitive science, and computer science to develop a more diverse and human-centered perspective on cross-lingual models.  We want to integrate typological theories about differences between language families, cognitive models of multilingual processing, and computational approaches towards increasing diversity in language technology.
 
 Participation in the workshop is free of charge but the number of participants is limited. 
-Please register using this [form](https://docs.google.com/forms/d/1rWQPgjObny31o5PRJHb-qwEVLzU1jTYAalLLSOSNUnI/prefill). 
+Please register using this [form](ttps://docs.google.com/forms/d/e/1FAIpQLSfIqmEaLj5VmLYZnHYuXBZrI0f-lKn_nSPOQTAYtz0507eS3w/viewform?usp=pp_url). 
+h
 
 ## Program
 
