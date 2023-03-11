@@ -11,7 +11,7 @@ In this workshop, we want to bring together leading scholars from linguistics, c
 
 Participation in the workshop is free of charge but the number of participants is limited. 
 Please register using this [form](https://docs.google.com/forms/d/e/1FAIpQLSfIqmEaLj5VmLYZnHYuXBZrI0f-lKn_nSPOQTAYtz0507eS3w/viewform?usp=pp_url). 
-h
+
 
 ## Program
 
