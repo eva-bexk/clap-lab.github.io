@@ -44,7 +44,7 @@ Location: Interactive workspace [3D@VU](https://www.youtube.com/watch?v=Z3E2f56m
 - Rochelle Choenni: Data-Efficient Cross-Lingual Transfer with Language-Specific Subnetworks
 - Charlotte Pouw: Cross-Lingual Transfer of Cognitive Complexity
 - Ece Takmaz: Transformer Adapters for the Multi- and Cross-Lingual Prediction of Human Reading Behavior
-- Marcell Fekete: Galactic Norse: First Steps into Designing a Model Adaptation Curriculum
+- Marcell Fekete: Gradual Language Model Adaptation Using Fine-Grained Typology
 - Yiyi Chen: Improving Cross-Lingual Models with Semantic Typology
 - Antonia Karamolegkou: Investigation of Transfer Languages for Parsing Latin
 - Ester Ploeger: Machine Translation between Languages with Varying Semantic Typology
