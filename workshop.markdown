@@ -32,7 +32,7 @@ Location: Interactive workspace [3D@VU](https://www.youtube.com/watch?v=Z3E2f56m
 | 09.00 | Anne Lauscher: Fostering Cultural and Subcultural Inclusion in NLP |
 | 10.00 | Coffee break |
 | 10.30  | Lonneke van der Plas: Language Specificity and Low-Resource Languages |
-| 11.30 | Discussion panel:  Challenges for Applying Multilingual Models to Human-Centered Use Cases |
+| 11.30 | Discussion panel:  Challenges for Applying Cross-Lingual Models to Human-Centered Use Cases |
 | 12.30 | Lunch break |
 | 14.00 | Yevgen Matusevych: Targeted Evaluation of Bilingual Models |
 | 15.00 | Coffee break |
