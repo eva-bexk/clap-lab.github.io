@@ -48,7 +48,7 @@ Location: Interactive workspace [3D@VU](https://www.youtube.com/watch?v=Z3E2f56m
 - Yiyi Chen: Improving Cross-Lingual Models with Semantic Typology
 - Antonia Karamolegkou: Investigation of Transfer Languages for Parsing Latin
 - Ester Ploeger: Machine Translation between Languages with Varying Semantic Typology
-- Kilian Evang: Improving Low-resource RRG Parsing with Cross-lingual Self-training
+- Philipp Rust: Language Modeling with Pixels
 - Richard Diehl Martinez: Framing Multi-Lingual Language Modeling as a Meta-Learning Task
 - Gabriele Sarti: DivEMT: Neural Machine Translation Post Editing Effort Across Typologically Diverse Languages
 - Andrew Caines: Cross-Lingual Word Segmentation
