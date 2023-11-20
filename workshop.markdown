@@ -21,7 +21,12 @@ Location: Interactive workspace [3D@VU](https://www.youtube.com/watch?v=Z3E2f56m
 Full program to be announced soon.
 <br>
 
-## Contact
+## Organization Committee
+Lisa Beinborn (Vrije Universiteit Amsterdam) <br>
+Richard Diehl Martinez (University of Cambridge) <br>
+Urja Khurana (Vrije Universiteit Amsterdam)
 
-The workshop is sponsored by the [Network Institute](https://networkinstitute.org/). 
+## Contact
+The workshop is sponsored by the [Network Institute](https://networkinstitute.org/). <br>
 If you have questions about the program, you can send an e-mail to humanclaim@googlegroups.com. 
+
