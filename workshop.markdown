@@ -22,9 +22,9 @@ Full program to be announced soon.
 <br>
 
 ## Organization Committee
-Lisa Beinborn (Vrije Universiteit Amsterdam) <br>
-Richard Diehl Martinez (University of Cambridge) <br>
-Urja Khurana (Vrije Universiteit Amsterdam)
+[Lisa Beinborn](https://beinborn.eu/) (Vrije Universiteit Amsterdam) <br>
+[Richard Diehl Martinez](https://www.richarddiehlmartinez.com/) (University of Cambridge) <br>
+[Urja Khurana](https://urjakh.github.io/) (Vrije Universiteit Amsterdam)
 
 ## Contact
 The workshop is sponsored by the [Network Institute](https://networkinstitute.org/). <br>
