@@ -16,7 +16,7 @@ Registration will open soon.
 
 ## Program
 
-**January 11th (Thursday), 2024**, 9.30 am - 17.30 pm <br>
+**January 11th (Thursday), 2024**, 9.30 am - 16.30 pm <br>
 Location: Interactive workspace [3D@VU](https://www.youtube.com/watch?v=Z3E2f56mptw) <br>
 Full program to be announced soon.
 <br>
