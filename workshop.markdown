@@ -17,9 +17,21 @@ Registration is open.
 ## Program
 
 **January 11th (Thursday), 2024**, 9.30 am - 16.30 pm <br>
-Location: Interactive workspace [3D@VU](https://www.youtube.com/watch?v=Z3E2f56mptw) <br>
-Full program to be announced soon.
-<br>
+**Location**: Interactive workspace [3D@VU](https://www.youtube.com/watch?v=Z3E2f56mptw) <br>
+
+**9.00-9.30** Coffee Walk-In, Catching up <br>
+**9.30-9.40** Opening by dr. Lisa Beinborn  <br>
+**9.40-10.00** Opening by Richard Diehl Martinez: _lessons learned from the BabyLM challenge for the human perspective on cross-lingual models_ <br>
+**10.00-10.15** Social Clustering: Find your position in representational space <br>
+**10.15-11.00** Invited Talk by dr. Miryam de Lhoneux <br>
+**11.00-11.45** Invited Talk by dr. Arianna Bisazza <br>
+**12.00-14.00** Lunch and Poster Session <br>
+**14.00-14.15** Pitch for group work: Representational Unit <br>
+**14.15-15.45** Rotating Sessions <br>
+**15.45-16.00** Coffee break <br>
+**16.00-16.30** Closing <br>
+**16.30-17.30** Cleaning up <br>
+**from 17.30 onwards**: Social activity <br>
 
 ## Organization Committee
 [Lisa Beinborn](https://beinborn.eu/) (Vrije Universiteit Amsterdam) <br>
