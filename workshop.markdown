@@ -45,6 +45,7 @@ Registration is open.
 * Artur Kulmizev: Investigating UD Treebanks via Dataset Difficulty Measures <br>
 * Benjamin Minixhofer: CompoundPiece: Evaluating and Improving Decompounding Performance of Language Models <br>
 * Lisa Beinborn: Analyzing Cognitive Plausibility of Subword Tokenization <br>
+* Jinbiao Yang: Unsupervised Text Segmentation Predicts Eye Fixations During Reading <br>
 <br>
 And a few more to be confirmed. 
 
