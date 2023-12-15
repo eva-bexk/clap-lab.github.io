@@ -34,17 +34,17 @@ Registration is open.
 **from 17.30 onwards**: jointly moving to dinner location <be>
 
 ## Posters
-Rochelle Choenni: How do languages influence each other? Studying cross-lingual data sharing during LLM fine-tuning <br>
-Sandro Pezzelle: A Psycholinguistic Analysis of BERT's Representations of Compounds <br>
-Carina Kauf: A Better Way to Do Masked Language Model Scoring <br>
-Gabriele Sarti: Quantifying the Plausibility of Context Reliance in Neural Machine Translation <br>
-Marcel Fekete: Cross-lingual Differences in Subnetworks for Syntactic Phenomena <br>
-Deborah Jacobi: MultiplEYE: Enabling multilingual eye-tracking data collection for human and machine language processing research <br>
-Andrea Horbach and Marie Bexte: Crosslingual Content Scoring in Five Languages <br>
-Lea Krause and Urja Khurana: Confidently Wrong: Exploring the Calibration and Expression of (Un) Certainty of Large Language Models in a Multilingual Setting <br>
-Artur Kulmizev: Investigating UD Treebanks via Dataset Difficulty Measures <br>
-Benjamin Minixhofer: CompoundPiece: Evaluating and Improving Decompounding Performance of Language Models <br>
-Lisa Beinborn: Analyzing Cognitive Plausibility of Subword Tokenization <br>
+* Rochelle Choenni: How do languages influence each other? Studying cross-lingual data sharing during LLM fine-tuning <br>
+* Sandro Pezzelle: A Psycholinguistic Analysis of BERT's Representations of Compounds <be>
+* Carina Kauf: A Better Way to Do Masked Language Model Scoring <br>
+* Gabriele Sarti: Quantifying the Plausibility of Context Reliance in Neural Machine Translation <br>
+* Marcel Fekete: Cross-lingual Differences in Subnetworks for Syntactic Phenomena <br>
+* Deborah Jacobi: MultiplEYE: Enabling multilingual eye-tracking data collection for human and machine language processing research <br>
+* Andrea Horbach and Marie Bexte: Crosslingual Content Scoring in Five Languages <br>
+* Lea Krause and Urja Khurana: Confidently Wrong: Exploring the Calibration and Expression of (Un) Certainty of Large Language Models in a Multilingual Setting <br>
+* Artur Kulmizev: Investigating UD Treebanks via Dataset Difficulty Measures <br>
+* Benjamin Minixhofer: CompoundPiece: Evaluating and Improving Decompounding Performance of Language Models <br>
+* Lisa Beinborn: Analyzing Cognitive Plausibility of Subword Tokenization <br>
 <br>
 And a few more to be confirmed. 
 
