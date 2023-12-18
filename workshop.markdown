@@ -50,7 +50,6 @@ Registration is open.
 * Kushal Tatariya: Emotion Classification for Code-Mixed Data (Hinglish) <br>
 * Yuqing Zhang: Endowing Neural Language Learners with Human-like Biases (A Case Study on Dependency Link Minimization)<br>
 <br>
-And a few more to be confirmed. 
 
 ## Organization Committee
 [Lisa Beinborn](https://beinborn.eu/) (Vrije Universiteit Amsterdam) <br>
