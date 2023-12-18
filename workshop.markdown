@@ -30,7 +30,7 @@ Registration is open.
 **14.15-15.45** Flying Paper Rotation <br>
 **15.45-16.00** Coffee break <br>
 **16.00-16.30** Presentation of Findings <br>
-**16.30-17.30** Cleaning up <br>
+**16.30-17.30** Feierabendbier and Clean-up <br>
 **from 17.30 onwards**: jointly moving to dinner location <be>
 
 ## Posters
