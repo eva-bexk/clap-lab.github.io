@@ -23,8 +23,8 @@ Registration is open.
 **9.30-9.40** Opening (Lisa Beinborn)  <br>
 **9.40-10.00** Richard Diehl Martinez: _Lessons learned from the BabyLM challenge_ <br>
 **10.00-10.15** Social Clustering: Find your position in representational space <br>
-**10.15-11.00** [Miryam de L'Honeux](https://people.cs.kuleuven.be/~miryam.delhoneux/research/): Fairness in Multilingual NLP <br>
-**11.00-11.45** [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/): Can modern LMs be truly polyglot? Language learnability & inequalities in NLP <br>
+**10.15-11.00** [Miryam de L'Honeux](https://people.cs.kuleuven.be/~miryam.delhoneux/research/): _Fairness in Multilingual NLP_ <br>
+**11.00-11.45** [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/): _Can modern LMs be truly polyglot? Language learnability & inequalities in NLP_ <br>
 **12.00-14.00** Poster Session and light lunch <br>
 **14.00-14.15** Pitch: Cross-Lingual Representational Units <br>
 **14.15-15.45** Flying Paper Rotation <br>
@@ -48,7 +48,8 @@ Registration is open.
 * Jinbiao Yang: Unsupervised Text Segmentation Predicts Eye Fixations During Reading <be>
 * Jirui Qi: Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models <br>
 * Kushal Tatariya: Emotion Classification for Code-Mixed Data (Hinglish) <br>
-* Yuqing Zhang: Endowing Neural Language Learners with Human-like Biases (A Case Study on Dependency Link Minimization)<br>
+* Yuqing Zhang: Endowing Neural Language Learners with Human-like Biases (A Case Study on Dependency Link Minimization) <br>
+* Wessel Poelman: A Call for Consistency in Reporting Typological Diversity <br>
 <br>
 
 ## Organization Committee
