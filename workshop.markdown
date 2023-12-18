@@ -24,7 +24,7 @@ Registration is open.
 **9.40-10.00** Richard Diehl Martinez: _Lessons learned from the BabyLM challenge_ <br>
 **10.00-10.15** Social Clustering: Find your position in representational space <br>
 **10.15-11.00** [Miryam de L'Honeux](https://people.cs.kuleuven.be/~miryam.delhoneux/research/): Fairness in Multilingual NLP <br>
-**11.00-11.45** Arianna Bisazza: Can modern LMs be truly polyglot? Language learnability & inequalities in NLP <br>
+**11.00-11.45** [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/): Can modern LMs be truly polyglot? Language learnability & inequalities in NLP <br>
 **12.00-14.00** Poster Session and light lunch <br>
 **14.00-14.15** Pitch: Cross-Lingual Representational Units <br>
 **14.15-15.45** Flying Paper Rotation <br>
