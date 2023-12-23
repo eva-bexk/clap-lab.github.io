@@ -43,6 +43,7 @@ Registration is open.
 * Andrea Horbach and Marie Bexte: Crosslingual Content Scoring in Five Languages <br>
 * Lea Krause and Urja Khurana: Confidently Wrong: Exploring the Calibration and Expression of (Un) Certainty of Large Language Models in a Multilingual Setting <br>
 * Artur Kulmizev: Investigating UD Treebanks via Dataset Difficulty Measures <br>
+* Elja Meijer: Exploring the Application of NLP in Narrative Patterns of Adult Attachment <br>
 * Benjamin Minixhofer: CompoundPiece: Evaluating and Improving Decompounding Performance of Language Models <br>
 * Lisa Beinborn: Analyzing Cognitive Plausibility of Subword Tokenization <br>
 * Jinbiao Yang: Unsupervised Text Segmentation Predicts Eye Fixations During Reading <be>
@@ -50,6 +51,7 @@ Registration is open.
 * Kushal Tatariya: Emotion Classification for Code-Mixed Data (Hinglish) <br>
 * Yuqing Zhang: Endowing Neural Language Learners with Human-like Biases (A Case Study on Dependency Link Minimization) <br>
 * Wessel Poelman: A Call for Consistency in Reporting Typological Diversity <br>
+* Zeb Goriely: POS Smoothing - Rare Word Representation Learning by Smoothing Over Word Classes <br>
 <br>
 
 ## Organization Committee
