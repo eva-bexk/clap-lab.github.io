@@ -52,7 +52,6 @@ Registration is open.
 * Yuqing Zhang: Endowing Neural Language Learners with Human-like Biases (A Case Study on Dependency Link Minimization) <br>
 * Wessel Poelman: A Call for Consistency in Reporting Typological Diversity <br>
 * Zeb Goriely: POS Smoothing - Rare Word Representation Learning by Smoothing Over Word Classes <br>
-* Elja Meijer: Detecting the Quality of Adult Attachment Interviews in Three Languages <br>
 <br>
 
 ## Organization Committee
