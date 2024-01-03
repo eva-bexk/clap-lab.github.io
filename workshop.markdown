@@ -39,7 +39,7 @@ Registration is open.
 * Carina Kauf: A Better Way to Do Masked Language Model Scoring <br>
 * Gabriele Sarti: Quantifying the Plausibility of Context Reliance in Neural Machine Translation <br>
 * Marcel Fekete: Cross-lingual Differences in Subnetworks for Syntactic Phenomena <br>
-* Deborah Jacobi: MultiplEYE: Enabling multilingual eye-tracking data collection for human and machine language processing research <br>
+* Deborah Jakobi: MultiplEYE: Enabling multilingual eye-tracking data collection for human and machine language processing research <br>
 * Andrea Horbach and Marie Bexte: Crosslingual Content Scoring in Five Languages <br>
 * Lea Krause and Urja Khurana: Confidently Wrong: Exploring the Calibration and Expression of (Un) Certainty of Large Language Models in a Multilingual Setting <br>
 * Artur Kulmizev: Investigating UD Treebanks via Dataset Difficulty Measures <br>
