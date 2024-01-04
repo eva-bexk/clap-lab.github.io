@@ -42,7 +42,6 @@ Registration is open.
 * Deborah Jakobi: MultiplEYE: Enabling multilingual eye-tracking data collection for human and machine language processing research <br>
 * Andrea Horbach and Marie Bexte: Crosslingual Content Scoring in Five Languages <br>
 * Lea Krause and Urja Khurana: Confidently Wrong: Exploring the Calibration and Expression of (Un) Certainty of Large Language Models in a Multilingual Setting <br>
-* Artur Kulmizev: Investigating UD Treebanks via Dataset Difficulty Measures <br>
 * Elja Meijer: Exploring the Application of NLP in Narrative Patterns of Adult Attachment <br>
 * Benjamin Minixhofer: CompoundPiece: Evaluating and Improving Decompounding Performance of Language Models <br>
 * Lisa Beinborn: Analyzing Cognitive Plausibility of Subword Tokenization <br>
