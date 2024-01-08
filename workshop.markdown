@@ -56,10 +56,10 @@ Registration is open.
 ## Organization Committee
 [Lisa Beinborn](https://beinborn.eu/) (Vrije Universiteit Amsterdam) <br>
 [Richard Diehl Martinez](https://www.richarddiehlmartinez.com/) (University of Cambridge) <br>
-[Urja Khurana](https://urjakh.github.io/) (Vrije Universiteit Amsterdam)
+[Urja Khurana](https://urjakh.github.io/) (Vrije Universiteit Amsterdam) <br> <br>
+The workshop is sponsored by the [Network Institute](https://networkinstitute.org/). <br>
 
 ## Contact
-The workshop is sponsored by the [Network Institute](https://networkinstitute.org/). <br>
 If you have questions about the program, you can send an e-mail to humanclaim@googlegroups.com. 
 
 ## Registration 
