@@ -62,4 +62,3 @@ The workshop is sponsored by the [Network Institute](https://networkinstitute.or
 ## Contact
 If you have questions about the program, you can send an e-mail to humanclaim@googlegroups.com. 
 
-## Registration 
