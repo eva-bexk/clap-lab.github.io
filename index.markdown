@@ -7,7 +7,7 @@ This page is under construction. The research group is currently being founded b
 
 Projects:
 
-- Cognitively Inspired NLP: Book, BabyLM challenge
+- Cognitively Inspired NLP
 - Interpretability of Cross-Lingual Transfer
 - Educational Language Technology
 
