@@ -24,4 +24,6 @@ Associated researchers:
 - Jonathan Kamp
 - Miyu Oba
 
-We initiated the [HumanCLAIM](https://clap-lab.github.io/workshop) workshop series. 
+We initiated the [HumanCLAIM](https://clap-lab.github.io/workshop) workshop series.
+
+![Impressions from the HumanCLAIM workshop](overview_human_claim2024.png?raw=true "HumanCLAIM 2024")
