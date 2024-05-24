@@ -13,7 +13,7 @@ We work on natural language processing research and are interested in the follow
 - Interpretability and bias of language models
 - Cross-lingual transfer in multilingual models
 - Educational language technology
-- Poly-vocal models that account for human variation, uncertainty and cognitive complexity
+- Poly-vocal models that account for human variation, uncertainty, and cognitive complexity
 - Cross-lingual patterns in eye tracking data of reading
 
 **Teaching**
@@ -29,9 +29,12 @@ We will offer the following lectures and seminars:
 
 - Lisa Beinborn
 - Victor Zimmermann
+- Jana Hackethal
 - Jenia Kim (Hogeschool Utrecht)
 - Jonathan Kamp (VU Amsterdam)
 - Miyu Oba (Nara Institute of Science and Technology)
+
+If you are interested in our work, reach out to nlp[at]cs.uni-goettingen.de
 
 We initiated the [HumanCLAIM](https://clap-lab.github.io/workshop) workshop series.
 
