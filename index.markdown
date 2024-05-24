@@ -9,7 +9,7 @@ If you are interested in our work, reach out to nlp[at]cs.uni-goettingen.de
 
 **Research**
 
-We work on natural language processing research and are interested in the following topics:
+We work on natural language processing and are interested in the following topics:
 
 - Cognitively plausible representation learning
 - Interpretability and bias of language models
