@@ -5,6 +5,8 @@ description: Research Group at the University of Göttingen
 ---
 This page is currently under construction. We are a new research group led by [Prof. Lisa Beinborn](https://beinborn.eu/) at the institute of computer science. 
 
+If you are interested in our work, reach out to nlp[at]cs.uni-goettingen.de
+
 **Research**
 
 We work on natural language processing research and are interested in the following topics:
@@ -24,7 +26,6 @@ We will offer the following lectures and seminars:
 - Interpretability and Bias in Machine Learning
 - Data Science with Cognitive Signals
 
-
 **Team**
 
 - Lisa Beinborn
@@ -34,7 +35,6 @@ We will offer the following lectures and seminars:
 - Jonathan Kamp (VU Amsterdam)
 - Miyu Oba (Nara Institute of Science and Technology)
 
-If you are interested in our work, reach out to nlp[at]cs.uni-goettingen.de
 
 We initiated the [HumanCLAIM](https://clap-lab.github.io/workshop) workshop series.
 
