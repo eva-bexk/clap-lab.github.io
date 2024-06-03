@@ -5,7 +5,7 @@ description: Research Group at the University of Göttingen
 ---
 This page is currently under construction. We are a new research group led by [Prof. Lisa Beinborn](https://beinborn.eu/) at the institute of computer science. 
 
-If you are interested in our work, reach out to nlp[at]cs.uni-goettingen.de
+If you are interested in our work, reach out to claplab[at]cs.uni-goettingen.de
 
 **Research**
 
