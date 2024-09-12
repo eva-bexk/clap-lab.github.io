@@ -3,20 +3,19 @@ layout: default
 title: Human-Centered Data Science 
 description: Research Group at the University of Göttingen
 ---
-This page is currently under construction. We are a new research group led by [Prof. Lisa Beinborn](https://beinborn.eu/) at the institute of computer science. 
+We are a research group led by [Prof. Lisa Beinborn](https://beinborn.eu/) at the institute of computer science, university of Göttingen. 
 
 If you are interested in our work, reach out to claplab[at]cs.uni-goettingen.de
 
 **Research**
 
-We work on natural language processing and are interested in the following topics:
+We work on natural language processing (NLP) with a human-centered perspective. We want to develop poly-vocal models that account for human variation, uncertainty, and cognitive complexity and are currently most interested in the following topics: 
 
-- Cognitively plausible representation learning
-- Interpretability and bias of language models
-- Cross-lingual transfer in multilingual models
-- Educational language technology
-- Poly-vocal models that account for human variation, uncertainty, and cognitive complexity
-- Cross-lingual patterns in eye tracking data of reading
+- Multilingual NLP
+- (Cognitively Plausible) Representation Learning
+- Interpretability and Bias of Machine Learning Models
+- Educational Language Technology
+- Modelling Eye-Tracking Data of Language Processing
 
 **Teaching**
 
@@ -25,6 +24,8 @@ We will offer the following lectures and seminars:
 - Advanced NLP
 - Interpretability and Bias in Machine Learning
 - Data Science with Cognitive Signals
+
+You can find more information [here]()
 
 **Team**
 
