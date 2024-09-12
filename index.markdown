@@ -3,9 +3,9 @@ layout: default
 title: Human-Centered Data Science 
 description: Research Group at the University of Göttingen
 ---
-We are a research group led by [Prof. Lisa Beinborn](https://beinborn.eu/) at the institute of computer science, university of Göttingen. 
+We are a research group led by [Prof. Lisa Beinborn](https://beinborn.eu/) at the institute of computer science (University of Göttingen). 
 
-If you are interested in our work, reach out to claplab[at]cs.uni-goettingen.de
+If you are interested in our work, reach out to claplab[at]cs.uni-goettingen.de.
 
 **Research**
 
@@ -25,7 +25,7 @@ We will offer the following lectures and seminars:
 - Interpretability and Bias in Machine Learning
 - Data Science with Cognitive Signals
 
-You can find more information [here](teaching.markdown)
+You can find more information [here](teaching.markdown).
 
 **Team**
 
