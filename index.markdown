@@ -25,7 +25,7 @@ We will offer the following lectures and seminars:
 - Interpretability and Bias in Machine Learning
 - Data Science with Cognitive Signals
 
-You can find more information [here]()
+You can find more information [here](teaching.markdown)
 
 **Team**
 
