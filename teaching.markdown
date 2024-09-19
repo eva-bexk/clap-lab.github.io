@@ -14,7 +14,7 @@ New language models are released almost every month these days. In the technical
 
 [Advanced Natural Language Processing](https://studip.uni-goettingen.de/dispatch.php/course/scm?cid=28648918517fe54813d2eaf442b7bb1e) (every semester)
 
-In this seminar, we review and discuss recent advances in the field. Students need to have foundational knowledge in natural language processing and/or machine learning  to be able to read and understand state-of-the-art research papers. Every semester, we will focus on a methodological subtopic.
+In this seminar, we review and discuss recent advances in the field. Students need to have foundational knowledge in natural language processing and/or machine learning  to be able to read and understand state-of-the-art research papers. Every semester, we will focus on a methodological subtopic. <br>
 Winter term 24/25: In neural models, information processing is widely distributed over the neurons. In order to adapt models to new tasks and domains, modular solutions can help us encapsulate processes and better control the information flow.  Modularity is particularly relevant for transfer learning, for example in multilingual models. You can choose to focus a) more on the methodological aspect of modularity or b) more on multilingual models and cross-lingual transfer. 
 
 [Interpretability & Bias in Machine Learning](todo) (summer term)
@@ -23,6 +23,6 @@ In this advanced lecture, we learn to  better understand the strengths and weakn
 
 For the future, we also plan seminars on data science with cognitive signals and educational language technology. 
 
-**Theses**
+**Theses** <br>
 We are always looking for motivated students to work with us. If you are interested, reach out to claplab@uni-goettingen.de. 
 Have a look at our [list of potential thesis topics](https://pad.gwdg.de/s/9xOdUnJMP) or pitch your own idea based on a recent paper or a shared task. 
