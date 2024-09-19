@@ -17,6 +17,8 @@ We work on natural language processing (NLP) with a human-centered perspective. 
 - Educational Language Technology
 - Modelling Eye-Tracking Data of Language Processing
 
+If you want to be informed about upcoming talks and events, subscribe to our [mailing list](https://listserv.gwdg.de/mailman/listinfo/nlp)
+
 **Teaching**
 
 We will offer the following lectures and seminars: 
