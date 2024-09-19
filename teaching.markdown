@@ -23,6 +23,6 @@ In this advanced lecture, we learn to  better understand the strengths and weakn
 
 For the future, we also plan seminars on data science with cognitive signals and educational language technology. 
 
-##Theses##
+**Theses**
 We are always looking for motivated students to work with us. If you are interested, reach out to claplab@uni-goettingen.de. 
 Have a look at our [list of potential thesis topics](https://pad.gwdg.de/s/9xOdUnJMP) or pitch your own idea based on a recent paper or a shared task. 
