@@ -3,7 +3,7 @@ layout: default
 title: HumanCLAIM Workshop
 description: The Human Perspective on Cross-Lingual AI Models
 ---
-The 2023 edition can be found [here](/workshop2023.markdown).
+Have a look at the program from previous editions: [2024](/workshop2024.markdown), [2023](/workshop2023.markdown).
 
 ## Motivation
 
@@ -11,47 +11,22 @@ Linguistic diversity is one of the fundamental rights of the European Union and 
 
 In this workshop, we want to bring together leading scholars from linguistics, cognitive science, and computer science to develop a more diverse and human-centered perspective on cross-lingual models.  We want to integrate typological theories about differences between language families, cognitive models of multilingual processing, and computational approaches toward increasing diversity in language technology.
 
+## Important Details
+Date: March 26th to March 27th, 2025
+Location: Göttingen, Germany
+
 Participation in the workshop is free of charge but the number of participants is limited. 
 Registration is open.
 
-## Program
+## Program Highlights
 
-**January 11th (Thursday), 2024**, 9.30 am - 16.30 pm <br>
-**Location**: Interactive workspace [3D@VU](https://www.youtube.com/watch?v=Z3E2f56mptw) <br>
+**Invited speakers**: We are excited to already announce two keynote presentations: 1) [Debora Nozza](https://www.deboranozza.com/) from Bocconi University Milano will talk about her ERC-grant project targeting subjectivity in NLP and about her research on cross-lingual hate speech. 2) [Yuval Pinter](https://www.cs.bgu.ac.il/~pintery/) from Ben-Gurion University of the Negev will present his research on tokenization challenges in multiple languages and how they affect what models can learn. 
 
-**9.00-9.30** Coffee Walk-In, Catching up <br>
-**9.30-9.40** Opening (Lisa Beinborn)  <br>
-**9.40-10.00** Richard Diehl Martinez: _Lessons learned from the BabyLM challenge_ <br>
-**10.00-10.15** Social Clustering: Find your position in representational space <br>
-**10.15-11.00** [Miryam de L'Honeux](https://people.cs.kuleuven.be/~miryam.delhoneux/research/): _Fairness in Multilingual NLP_ <br>
-**11.00-11.45** [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/): _Can modern LMs be truly polyglot? Language learnability & inequalities in NLP_ <br>
-**12.00-14.00** Poster Session and light lunch <br>
-**14.00-14.15** Pitch: Cross-Lingual Representational Units <br>
-**14.15-15.45** Flying Paper Rotation <br>
-**15.45-16.00** Coffee break <br>
-**16.00-16.30** Presentation of Findings <br>
-**16.30-17.30** Feierabendbier and Clean-up <br>
-**from 17.30 onwards**: jointly moving to dinner location <be>
+**Poster session**: Participants get the chance to discuss their work and receive feedback. 
 
-## Posters
-* Rochelle Choenni: How do languages influence each other? Studying cross-lingual data sharing during LLM fine-tuning <br>
-* Sandro Pezzelle: A Psycholinguistic Analysis of BERT's Representations of Compounds <be>
-* Carina Kauf: A Better Way to Do Masked Language Model Scoring <br>
-* Gabriele Sarti: Quantifying the Plausibility of Context Reliance in Neural Machine Translation <br>
-* Marcel Fekete: Cross-lingual Differences in Subnetworks for Syntactic Phenomena <br>
-* Deborah Jakobi: MultiplEYE: Enabling multilingual eye-tracking data collection for human and machine language processing research <br>
-* Andrea Horbach and Marie Bexte: Crosslingual Content Scoring in Five Languages <br>
-* Lea Krause and Urja Khurana: Confidently Wrong: Exploring the Calibration and Expression of (Un) Certainty of Large Language Models in a Multilingual Setting <br>
-* Elja Meijer: Exploring the Application of NLP in Narrative Patterns of Adult Attachment <br>
-* Benjamin Minixhofer: CompoundPiece: Evaluating and Improving Decompounding Performance of Language Models <br>
-* Lisa Beinborn: Analyzing Cognitive Plausibility of Subword Tokenization <br>
-* Jinbiao Yang: Unsupervised Text Segmentation Predicts Eye Fixations During Reading <be>
-* Jirui Qi: Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models <br>
-* Kushal Tatariya: Emotion Classification for Code-Mixed Data (Hinglish) <br>
-* Yuqing Zhang: Endowing Neural Language Learners with Human-like Biases (A Case Study on Dependency Link Minimization) <br>
-* Wessel Poelman: A Call for Consistency in Reporting Typological Diversity <br>
-* Zeb Goriely: POS Smoothing - Rare Word Representation Learning by Smoothing Over Word Classes <br>
-<br>
+**Idea pitches**: You have an idea but lack expertise? We will make time for focused knowledge exchange in smaller groups. 
+
+**Workshop dinner**: As in previous years, the workshop focuses on personal interaction. We hope you join the workshop dinner on Wednesday evening. 
 
 ## Organization Committee
 [Lisa Beinborn](https://beinborn.eu/) (Vrije Universiteit Amsterdam) <br>
@@ -62,3 +37,4 @@ The workshop is sponsored by the [Network Institute](https://networkinstitute.or
 ## Contact
 If you have questions about the program, you can send an e-mail to humanclaim@googlegroups.com. 
 
+## Registration
