@@ -3,10 +3,8 @@ layout: default
 title: HumanCLAIM Workshop
 description: The Human Perspective on Cross-Lingual AI Models
 ---
-Have a look at the program from previous editions: [2024](/workshop2024.markdown), [2023](/workshop2023.markdown).
 
 ## Motivation
-
 Linguistic diversity is one of the fundamental rights of the European Union and we are optimistic that cross-lingual AI models can play an important role in facilitating it. Cross-lingual models based on neural networks are trained on terabytes of data and have recently reached large performance gains. As the computationally expensive training of such models can only be afforded by large companies, the evaluation of cross-lingual models is driven by commercial incentives and focuses on the average quantitative performance across more than a hundred languages. The intricacies of application scenarios for low-resource languages or economically insignificant purposes are largely being overlooked and individual differences between users are underestimated. When we want to use cross-lingual models for human-centered scenarios such as cognitive modeling, language education, or use cases in the digital humanities, we quickly encounter their limitations. 
 
 In this workshop, we want to bring together leading scholars from linguistics, cognitive science, and computer science to develop a more diverse and human-centered perspective on cross-lingual models.  We want to integrate typological theories about differences between language families, cognitive models of multilingual processing, and computational approaches toward increasing diversity in language technology.
@@ -15,8 +13,8 @@ In this workshop, we want to bring together leading scholars from linguistics, c
 Date: March 26th to March 27th, 2025 <br>
 Location: Göttingen, Germany
 
-Participation in the workshop is free of charge but the number of participants is limited. 
-Registration is open.
+Participation in the workshop is free of charge but the number of participants is limited. <br>
+Registration is open (see below). 
 
 ## Program Highlights
 
@@ -27,6 +25,8 @@ Registration is open.
 **Idea pitches**: You have an idea but lack expertise? We will make time for focused knowledge exchange in smaller groups. 
 
 **Workshop dinner**: As in previous years, the workshop focuses on personal interaction. We hope you join the workshop dinner on Wednesday evening. 
+
+Have a look at the program of previous editions: [2024](/workshop2024.markdown), [2023](/workshop2023.markdown).
 
 ## Organization Committee
 [Lisa Beinborn](https://beinborn.eu/) (Vrije Universiteit Amsterdam) <br>
