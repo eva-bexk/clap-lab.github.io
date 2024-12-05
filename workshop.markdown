@@ -29,7 +29,7 @@ Registration is open (see below).
 Have a look at the program of previous editions: [2024](/workshop2024.markdown), [2023](/workshop2023.markdown).
 
 ## Organization Committee
-[Lisa Beinborn](https://beinborn.eu/) (Vrije Universiteit Amsterdam) <br>
+[Lisa Beinborn](https://www.uni-goettingen.de/en/691017.html) (University of Goettingen) <br>
 [Richard Diehl Martinez](https://www.richarddiehlmartinez.com/) (University of Cambridge) <br>
 [Urja Khurana](https://urjakh.github.io/) (Vrije Universiteit Amsterdam) <br> <br>
 The workshop is sponsored by the [Network Institute](https://networkinstitute.org/). <br>
