@@ -16,15 +16,50 @@ Location: Göttingen, Germany
 Participation in the workshop is free of charge but the number of participants is limited. <br>
 Registration is open (see below). 
 
-## Program Highlights
+# **Program Highlights**  
 
-**Invited speakers**: We are excited to already announce two keynote presentations: 1) [Debora Nozza](https://www.deboranozza.com/) from Bocconi University Milano will talk about her ERC-grant project targeting subjectivity in NLP and about her research on cross-lingual hate speech. 2) [Yuval Pinter](https://www.cs.bgu.ac.il/~pintery/) from Ben-Gurion University of the Negev will present his research on tokenization challenges in multiple languages and how they affect what models can learn. 
+## **Keynote Speakers**  
+We are thrilled to announce two keynote presentations:  
 
-**Poster session**: Participants get the chance to discuss their work and receive feedback. 
+- **[Debora Nozza](https://www.deboranozza.com/)** (Bocconi University, Milano)  
+  *Topic:* *Subjectivity in NLP and Cross-Lingual Hate Speech*  
+  Debora Nozza will present her ERC-funded project focusing on subjectivity in NLP and discuss her research on cross-lingual hate speech detection.  
 
-**Idea pitches**: You have an idea but lack expertise? We will make time for focused knowledge exchange in smaller groups. 
+- **[Yuval Pinter](https://www.cs.bgu.ac.il/~pintery/)** (Ben-Gurion University of the Negev)  
+  *Topic:* *Challenges in Tokenization Across Languages*  
+  Yuval Pinter will explore tokenization challenges in multiple languages and their impact on what models can learn.  
 
-**Workshop dinner**: As in previous years, the workshop focuses on personal interaction. We hope you join the workshop dinner on Wednesday evening. 
+## **Interactive Sessions**  
+- **Poster Session** – A great opportunity for participants to present their work and receive feedback.  
+- **Idea Pitches** – Have an idea but need expertise? Join focused small-group discussions to exchange knowledge.  
+- **Workshop Dinner** – Continuing our tradition of fostering personal interaction, we invite you to a social dinner on Wednesday evening.  
+
+---
+
+# **Workshop Schedule**  
+
+### **Wednesday, March 26, 2025**  
+**13:30 - 14:00** | Opening  
+**14:00 - 15:00** | *Debora Nozza:* Subjectivity in Cross-Lingual NLP  
+**15:00 - 15:30** | Coffee Break ☕  
+**15:30 - 16:00** | *Lucie Flek:* Stereotypes in Multilingual Models  
+**16:00 - 17:30** | Poster Session  
+**18:00** | Walking Tour 🚶‍♂️  
+**19:00** | Workshop Dinner 🍽  
+
+### **Thursday, March 27, 2025**  
+**08:30 - 09:00** | Walk-in Coffee ☕  
+**09:00 - 10:00** | *Yuval Pinter:* Cross-Lingual Challenges in Tokenization  
+**10:00 - 10:30** | Idea Pitches: The Question  
+**10:30 - 10:50** | Coffee Break + Group Formation  
+**10:50 - 12:00** | Group Work Session 1: Finding Common Ground  
+**12:00 - 13:00** | Lunch 🍽  
+**13:00 - 13:30** | *Nivedita Mani:* Cognitive Models of L1 Acquisition  
+**13:30 - 14:15** | Group Work Session 2: Preparing Pitches  
+**14:15 - 14:55** | Group Pitches: The Project to Find the Answer  
+**14:55 - 15:00** | Closing Remarks  
+
+---
 
 Have a look at the program of previous editions: [2024](/workshop2024.markdown), [2023](/workshop2023.markdown).
 
