@@ -41,4 +41,3 @@ You can find more information [here](teaching.markdown).
 
 We initiated the [HumanCLAIM](workshop.markdown) workshop series.
 
-![Impressions from the HumanCLAIM workshop](overview_human_claim2024.png?raw=true "HumanCLAIM 2024")
