@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HumanCLAIM Workshop
+title: 3rd HumanCLAIM Workshop
 description: The Human Perspective on Cross-Lingual AI Models
 ---
 
@@ -32,7 +32,7 @@ We are thrilled to announce two keynote presentations:
 ## **Interactive Sessions**  
 - **Poster Session** – A great opportunity for participants to present their work and receive feedback.  
 - **Idea Pitches** – Have an idea but need expertise? Join focused small-group discussions to exchange knowledge.  
-- **Workshop Dinner** – Continuing our tradition of fostering personal interaction, we invite you to a social dinner on Wednesday evening.  
+- **Workshop Dinner** – Continuing our tradition of fostering personal interaction, we organize a social dinner on Wednesday evening.  
 
 ---
 
@@ -60,11 +60,7 @@ We are thrilled to announce two keynote presentations:
 **14:55 - 15:00** | Closing Remarks  
 
 ---
-
-
 ![Impressions from HumanCLAIM 2024](overview_human_claim2024.png?raw=true "HumanCLAIM 2024")
-
-Have a look at the program of previous editions: [2024](/workshop2024.markdown), [2023](/workshop2023.markdown).
 
 ## Organization Committee
 [Lisa Beinborn](https://www.uni-goettingen.de/en/691017.html) (University of Goettingen) <br>
@@ -75,4 +71,5 @@ Have a look at the program of previous editions: [2024](/workshop2024.markdown),
 ## Contact
 If you have questions about the program, you can send an e-mail to humanclaim@googlegroups.com. 
 
+Curious about previous editions? [2024](/workshop2024.markdown), [2023](/workshop2023.markdown).
 ## Registration
