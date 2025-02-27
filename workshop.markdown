@@ -61,6 +61,9 @@ We are thrilled to announce two keynote presentations:
 
 ---
 
+
+![Impressions from HumanCLAIM 2024](overview_human_claim2024.png?raw=true "HumanCLAIM 2024")
+
 Have a look at the program of previous editions: [2024](/workshop2024.markdown), [2023](/workshop2023.markdown).
 
 ## Organization Committee
