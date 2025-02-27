@@ -67,7 +67,7 @@ Have a look at the program of previous editions: [2024](/workshop2024.markdown),
 [Lisa Beinborn](https://www.uni-goettingen.de/en/691017.html) (University of Goettingen) <br>
 [Richard Diehl Martinez](https://www.richarddiehlmartinez.com/) (University of Cambridge) <br>
 [Urja Khurana](https://urjakh.github.io/) (Vrije Universiteit Amsterdam) <br> <br>
-The workshop is sponsored by the [Network Institute](https://networkinstitute.org/). <br>
+[Eva Beck](https://www.linkedin.com/in/eva-beck-199104239/) <br> <br>
 
 ## Contact
 If you have questions about the program, you can send an e-mail to humanclaim@googlegroups.com. 
