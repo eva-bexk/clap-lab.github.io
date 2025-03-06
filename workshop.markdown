@@ -43,7 +43,7 @@ We are thrilled to announce two keynote presentations:
 **14:00 - 15:00** | *Debora Nozza:* Subjectivity in Cross-Lingual NLP  
 **15:00 - 15:30** | Coffee Break ☕  
 **15:30 - 16:00** | *Lucie Flek:* Stereotypes in Multilingual Models  
-**16:00 - 17:30** | Poster Session  
+**16:00 - 18:00** | Poster Session  
 **18:00** | Walking Tour 🚶‍♂️  
 **19:00** | Workshop Dinner 🍽  
 
