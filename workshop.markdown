@@ -34,6 +34,24 @@ We are thrilled to announce two keynote presentations:
 - **Idea Pitches** – Have an idea but need expertise? Join focused small-group discussions to exchange knowledge.  
 - **Workshop Dinner** – Continuing our tradition of fostering personal interaction, we organize a social dinner on Wednesday evening.  
 
+## Posters
+* Zebulon Goriely: From babble to words: Pre-training language models on continuous streams of phonemes <br>
+* Bastian Bunzeck: Small Language Models Also Work With Small Vocabularies: Probing the Linguistic Abilities of Grapheme- and Phoneme-Based Baby Llamas <br>
+* Iza Škrjanec: Evaluating Cognitive Plausibility in Multilingual Tokenization Strategies: Insights from Language Models and Reading Times <br>
+* Francesca Padovani: What is the real benefit of using Child Directed Language for Language Modeling? <br>
+* David Reich: The Pupil Becomes the Master: Eye-Tracking Feedback for Tuning LLMs <br>
+* Marianne de Heer Kloots: Investigating language learning trajectories in self-supervised speech models <br>
+* Kathy Hämmerl: Understanding Cross-Lingual Alignment <br>
+* Vera Neplenbroek: Cross-Lingual Transfer of Debiasing and Detoxification in Multilingual LLMs: An Extensive Investigation <br>
+* Siyao Peng: VariErr NLI: Separating Annotation Error from Human Label Variation <br>
+* Verena Blaschke: What Do Dialect Speakers Want? A Survey of Attitudes Towards Language Technology for German Dialects <br>
+* Franziska Weeber: Cross-Lingual Political Biases in Multilingual Large Language Models <br>
+* Jesujoba O. Alabi: AfriHuBERT: A self-supervised speech representation model for African languages <br>
+* Suchir Salahan: Less is More: Pre-Training Cross-Lingual Small-Scale Language Models with Cognitively-Plausible Curriculum Learning Strategies <br>
+* Akari Haga: BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency <br>
+* Jaap Jumelet: Extending BLiMP To Many Languages <br>
+* Yevgen Matusevych: Evaluating Cross-Lingual Transfer from English and Chinese <br>
+
 ---
 
 # **Workshop Schedule**  
